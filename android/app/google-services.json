@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000550870437",
+    "project_id": "atmos-402c7",
+    "storage_bucket": "atmos-402c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000550870437:android:0c103116844b0639264c4c",
+        "android_client_info": {
+          "package_name": "com.bluesclue.atmos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000550870437-i4h1nurtffq486kr90nruu9vi0s7hllf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JIjgGp8YqFK3RCZFcGNg8sPVEuLDRPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000550870437-i4h1nurtffq486kr90nruu9vi0s7hllf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
